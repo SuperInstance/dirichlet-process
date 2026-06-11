@@ -1,6 +1,9 @@
 [package]
 name = "dirichlet-process"
 version = "0.1.0"
+description = "A Rust library for Dirichlet Process"
+license = "MIT OR Apache-2.0"
+repository = "https://github.com/casey-digennaro/dirichlet-process"
 edition = "2021"
 
 [dependencies]
